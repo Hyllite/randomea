@@ -11,4 +11,3 @@ Pillow
 scipy
 tqdm
 psutil
-kornia>=0.7.1
