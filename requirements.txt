@@ -1,4 +1,4 @@
-torch
+torch==2.2.1
 torchsde
 torchvision
 einops==0.6.0
